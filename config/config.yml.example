@@ -1,0 +1,4 @@
+logger: stdout
+
+librato_email_addy: "me@there.com"
+librato_api_token: "abc123"
